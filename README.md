@@ -50,7 +50,7 @@ $ yarn install
 
 ### How to deploy smart contracts on milkomeda
 ```sh
-$ npx hardhat run scripts/deploy.js --network moonbeam
+$ npx hardhat run scripts/deploy.js --network moonbase
 ```
 
 ### Run smart contracts tests
