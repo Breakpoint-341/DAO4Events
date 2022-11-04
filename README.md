@@ -63,6 +63,9 @@ $ yarn test
 $ yarn serve
 ```
 
+### Levantar el sitio web 
+http://localhost:8080/
+
 Documentación en Gitbook: https://dao4events.gitbook.io/dao-4-events/
 
 ## 9. Pitch grabado
