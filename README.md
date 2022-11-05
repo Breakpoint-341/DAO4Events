@@ -78,7 +78,7 @@ El código fuente de los contratos inteligentes se encuentra en: [contracts/](co
 
 ### Para implementar contratos inteligentes en Moonbeam:
 1. Prepare .env file similar to `example.env` with your private key (env. `PRIVATE_KEY=0x123...`)
-2. Run the following command `npx hardhat run scripts/deploy.js --network milkomeda`
+2. Run the following command `npx hardhat run scripts/deploy.js --network moonbase`
 
 ## 11. Frontend code
 
@@ -104,25 +104,19 @@ La aplicación frontal tiene los siguientes componentes:
 ## 12. Pantallas /  material gráfico
 
 ### Pantalla principal
-<img width="1278" alt="Screenshot 2022-09-26 at 23 47 11" src="https://user-images.githubusercontent.com/114422762/192386629-dd39b13a-7484-4ff0-a4f7-b730928f2b9e.png">
+![image](https://user-images.githubusercontent.com/108815937/200097073-34040346-8345-4018-bb74-879f624b582a.png)
 
 ### Vista de DAO 
-
-<img width="1278" alt="Screenshot 2022-09-26 at 23 47 45" src="https://user-images.githubusercontent.com/114422762/192386692-caf394ea-e485-4ccc-830b-0af5a075e444.png">
+![image](https://user-images.githubusercontent.com/108815937/200097106-08536847-f8b7-43f5-aa58-93f65798a4e3.png)
 
 ### Búsqueda de Eventos
-
-<img width="952" alt="Screenshot 2022-09-26 at 23 48 18" src="https://user-images.githubusercontent.com/114422762/192386757-4ddb66fc-3335-426f-8aea-4d6f330e6542.png">
+![image](https://user-images.githubusercontent.com/108815937/200097143-2b9cd8f2-b39b-4c46-b3e0-9cab795a66c7.png)
 
 ### Members list de la DAO
-<img width="1278" alt="Screenshot 2022-09-26 at 23 48 57" src="https://user-images.githubusercontent.com/114422762/192386844-736bdfff-02b7-4f84-be8a-2959f72840ea.png">
+![image](https://user-images.githubusercontent.com/108815937/200097152-05018df3-bc88-4e01-b920-cb2c08dc095d.png)
 
 ### Vista de Votos
-<img width="1275" alt="Screenshot 2022-09-26 at 23 49 18" src="https://user-images.githubusercontent.com/114422762/192386906-88b2069c-fc23-4fa5-9b25-3b66a1e1881b.png">
+![image](https://user-images.githubusercontent.com/108815937/200097180-57930e6f-447d-420c-95b4-3181cca31085.png)
 
 ### Vista de propuesta de eventos
-<img width="882" alt="Screenshot 2022-09-26 at 23 50 08" src="https://user-images.githubusercontent.com/114422762/192387029-fd907752-9581-4fe3-acca-a554fbbc6812.png">
-
-
-- [Designs on figma](https://www.figma.com/file/zwDoAg7cs2YfrY4IMQC6B1/Milkomeda-Hackathon?node-id=0%3A1)
-
+![image](https://user-images.githubusercontent.com/108815937/200097193-f18fa9f5-d16f-4a14-835a-95b340129248.png)
