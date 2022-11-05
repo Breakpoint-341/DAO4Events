@@ -5,7 +5,7 @@
 DAO4Events
 
 ## 2. Nombres del integrantes del Equipo
-Daniel Rodriguez
+Daniel Felipe Rodriguez
 
 ## 3. Descripción corta del proyecto.
 DAO4Events es una aplicación basada en blockchain para organizadores de eventos. La naturaleza en línea de los proyectos criptográficos les permite crecer fácilmente a nivel mundial. Esta es también la raíz del problema con los eventos presenciales de muchas comunidades. Para muchas personas es difícil o incluso imposible asistir a conferencias como NFT.NYC, ya sea por los fondos o las visas necesarias. Una aplicación como EventDAO ayudaría a las comunidades globales a organizarse localmente. Es una gran herramienta tanto para proyectos existentes como para organizadores de eventos independientes.
@@ -29,18 +29,15 @@ Una herramienta adecuada para la organización de eventos de abajo hacia arriba 
 - Solidity (smart contracts)
 - Hardhat (smart contracts framework)
 - Javascript (main language)
-- Vercel (frontend deployment)
-- Figma (designs)
 - Vue.js (frontend)
 - Gitbook (documentation)
 
 ## 6. Payment Address (DEV en Moonbeam Alpha)
 0xC26d145e04833b1061B82A4230E53d08C0A857C3
 
-## 7. The website link
-https://dao4events.vercel.app/
+## 7. Documentación en Gitbook: https://dao4events.gitbook.io/dao-4-events/
 
-## 8. Documentación sobre cómo ejecutar el proyecto.
+### 8. Documentación sobre cómo ejecutar el proyecto.
 
 ### Install dependencies
 ```sh
@@ -66,13 +63,8 @@ $ yarn serve
 ### Levantar el sitio web 
 http://localhost:8080/
 
-Documentación en Gitbook: https://dao4events.gitbook.io/dao-4-events/
-
-## 9. Pitch grabado
-https://youtu.be/D7oUin2_gcM
-
-## 10. Smart-contracts
-El contrato inteligente principal para DAO4Events se implementa en Moonbeam Alpha en la dirección `` ([Enlace al contrato inteligente verificado en el explorador] (https://explorer-.../address/ xxxx)
+## 9. Smart-contracts
+El contrato inteligente principal para DAO4Events se implementa en Moonbeam Alpha en la dirección `` ([Enlace al contrato inteligente en el explorador] (https://moonbase.moonscan.io/address/0xE629b005ae224633154676514656964151361673)
 
 El código fuente de los contratos inteligentes se encuentra en: [contracts/](contracts/)
 
@@ -80,7 +72,7 @@ El código fuente de los contratos inteligentes se encuentra en: [contracts/](co
 1. Prepare .env file similar to `example.env` with your private key (env. `PRIVATE_KEY=0x123...`)
 2. Run the following command `npx hardhat run scripts/deploy.js --network moonbase`
 
-## 11. Frontend code
+## 10. Frontend code
 
 El código de front-end se encuentra en la carpeta [src/](src/) .
 El front-end tiene las siguientes rutas:
@@ -101,7 +93,7 @@ La aplicación frontal tiene los siguientes componentes:
 - Welcome.vue
 - BlockchainAddress.vue
 
-## 12. Pantallas /  material gráfico
+## 11. Pantallas /  material gráfico
 
 ### Pantalla principal
 ![image](https://user-images.githubusercontent.com/108815937/200097073-34040346-8345-4018-bb74-879f624b582a.png)
