@@ -1,10 +1,10 @@
 # DAO 4 Events app
 
 
-## 1. Project Name
+## 1. Nombre del Proyecto
 DAO4Events
 
-## 2. Team Name
+## 2. Nombres del integrantes del Equipo
 Daniel Rodriguez
 
 ## 3. Descripción corta del proyecto.
