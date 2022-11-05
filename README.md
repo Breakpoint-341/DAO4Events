@@ -112,3 +112,6 @@ La aplicación frontal tiene los siguientes componentes:
 
 ### Vista de propuesta de eventos
 ![image](https://user-images.githubusercontent.com/108815937/200097193-f18fa9f5-d16f-4a14-835a-95b340129248.png)
+
+## 12. Picth Grabado
+https://youtu.be/OKb00PPaQs8 
